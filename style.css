@@ -1,0 +1,18 @@
+.inps{
+    width: 200px;
+    height: 24px;
+    border: none;
+    border-bottom: 1px solid black;
+}
+small{
+    font-size: 7px;
+    color: blue;
+    display: none;
+}
+.sumits{
+    color: red;
+    width: 150px;
+    height: 20px;
+    background-color: bisque;
+    border: none;
+}
